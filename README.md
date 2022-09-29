@@ -1,3 +1,25 @@
+#FORKED to try to have it compiling on aarch64 processor architecture, platform sunxi (read Pine A64-LTS and Sopine Baseboard from Pine64.org)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# THE ORIGINAL README IS KEPT BELOW FOR INFORMATIONAL PURPOSE ONLY
+
+
+
 -----
 
 #### Click [here](https://github.com/morrownr/USB-WiFi) for USB WiFi Adapter Information for Linux
