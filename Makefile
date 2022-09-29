@@ -480,7 +480,7 @@ ifeq ($(CONFIG_USB_HCI), y)
 ifeq ($(CONFIG_BT_COEXIST), y)
 MODULE_NAME := rtkl8821au
 else
-MODULE_NAME := rtkl8811au
+MODULE_NAME := rtkl8821au
 endif
 endif
 ifeq ($(CONFIG_PCI_HCI), y)
