@@ -3921,7 +3921,7 @@ void halrf_dump_rfk_reg(void *dm_void, char input[][16], u32 *_used,
 
 	reg_1b00 = odm_get_bb_reg(dm, R_0x1b00, MASKDWORD);
 
-	if (input[2])
+	if (*input[2])
 		PHYDM_SSCANF(input[2], DCMD_DECIMAL, &var1[0]);
 
 	if ((strcmp(input[2], help) == 0))
