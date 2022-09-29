@@ -17,7 +17,7 @@
 
 
 # THE ORIGINAL README IS KEPT BELOW FOR INFORMATIONAL PURPOSE ONLY
-## Anything related to whatever mentioned after this line is to be discuted within https://github.com/morrownr/8821au-20310708
+## Anything related to whatever mentioned after this line is to be discuted within https://github.com/morrownr/8821au-20210708
 
 
 -----
