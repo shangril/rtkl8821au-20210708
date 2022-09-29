@@ -1,4 +1,4 @@
-#FORKED to try to have it compiling on aarch64 processor architecture, platform sunxi (read Pine A64-LTS and Sopine Baseboard from Pine64.org)
+# FORKED to try to have it compiling on aarch64 processor architecture, platform sunxi (read Pine A64-LTS and Sopine Baseboard from Pine64.org)
  
 
 
