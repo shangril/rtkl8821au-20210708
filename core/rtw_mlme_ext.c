@@ -12282,7 +12282,7 @@ static void rtw_mlmeext_disconnect(_adapter *padapter)
 		u8 ch, bw, offset;
 
 		#ifdef CONFIG_DFS_MASTER
-		//rtw_dfs_rd_en_decision(padapter, self_action, 0);
+		rtw_dfs_rd_en_decision(padapter, self_action, 0);
 		#endif
 
 		if (rtw_mi_get_ch_setting_union_no_self(padapter, &ch, &bw, &offset) != 0)
